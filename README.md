@@ -2,7 +2,7 @@
 
 <h2>🙋 Sobre mim:</h2>
 
-Tenho 20 anos, estudante de Análise e Desenvolvimento de Sistemas e amante da tecnologia!
+Tenho 21 anos, estudante de Análise e Desenvolvimento de Sistemas e amante da tecnologia!
 
 🖥️ - Desenvolvedor Front-End </br>
 🌱 - Estudando e melhorando habilidades em React </br>
