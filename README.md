@@ -5,7 +5,7 @@
 Tenho 21 anos, estudante de Análise e Desenvolvimento de Sistemas e amante da tecnologia!
 
 🖥️ - Desenvolvedor Front-End </br>
-🌱 - Estudando e melhorando habilidades em React </br>
+🌱 - Estudando e melhorando habilidades em Angular e Java </br>
 📬- Meu email: <a>rodrigobr2003@hotmail.com</a></br></br>
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-bragagnolo-772679214/) [![Blog](https://img.shields.io/website?label=portifoliorodrigobragagnolo.netlify.app&style=for-the-badge&url=https://portifoliorodrigobragagnolo.netlify.app/)](https://portifoliorodrigobragagnolo.netlify.app/)
 
