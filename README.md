@@ -12,7 +12,7 @@ Tenho 21 anos, estudante de Análise e Desenvolvimento de Sistemas e amante da t
 <h2>📊 Metas em 2024:</h2>
     <ul>
         <li> 🖼️ Estudar UI e UX design
-        <li> 🔭 Aprender TypeScript e Angular
+        <li> 🔭 Aprender Java e Docker
         <li> 📖 Melhorar minhas habilidades em design web
         <li> ✈️ Conhecer pessoas e lugares incríveis
     </ul>
@@ -25,7 +25,9 @@ Tenho 21 anos, estudante de Análise e Desenvolvimento de Sistemas e amante da t
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=wh" />
     <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 </div>
 
