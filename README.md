@@ -2,7 +2,7 @@
 
 <h2>🙋 About me:</h2>
 
-I'm a 21-year-old Analysis and System Development student and a technology lover!
+I'm a 22-year-old Analysis and System Development student and a technology lover!
 
 🖥️ - FullStack developer </br>
 🌱 - Studying and improving React Native, Java and BackEnd skills </br>
