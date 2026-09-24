@@ -33,8 +33,6 @@ I'm a 23-year-old Analysis and System Development student and a technology lover
 
 <h2>📈 My own statistics: </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigobr2003&layout=compact&theme=dark)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rodrigobr2003&theme=dark&locale=pt_BR&dates=FF5733&currStreakNum=FF5733&sideNums=C70039)](https://github.com/Rodrigobr2003)
 
 🧠 "Focused on learning"
