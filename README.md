@@ -9,13 +9,13 @@ I'm a 23-year-old Analysis and System Development student and a technology lover
 📬 - My e-mail: <a>rodrigobr2003@hotmail.com</a></br></br>
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-bragagnolo-772679214/) [![Blog](https://img.shields.io/website?label=portifoliorodrigobragagnolo.netlify.app&style=for-the-badge&url=https://portifoliorodrigobragagnolo.netlify.app/)](https://portifoliorodrigobragagnolo.netlify.app/)
 
-<h2>📊 Goals for 2025:</h2>
+<!-- <h2>📊 Goals for 2025:</h2>
     <ul>
         <li> 🖼️ Study UI/UX design
         <li> 🔭 Learn Docker
         <li> 📖 Enhance my design and develop skills
         <li> ✈️ Meet amizing people and wonderful places!
-    </ul>
+    </ul> -->
 
 <h2>⚡ Technologies:</h2>
 
