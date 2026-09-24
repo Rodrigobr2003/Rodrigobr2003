@@ -2,10 +2,10 @@
 
 <h2>🙋 About me:</h2>
 
-I'm a 23-year-old Analysis and System Development student and a technology lover!
+I'm a 23-year-old Software Developer and a technology lover!
 
 🖥️ - FullStack developer </br>
-🌱 - Studying and improving React Native, Java and BackEnd skills </br>
+🌱 - Studying and improving Docker, Kubernetes, CI/CD and AWS </br>
 📬 - My e-mail: <a>rodrigobr2003@hotmail.com</a></br></br>
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-bragagnolo-772679214/) [![Blog](https://img.shields.io/website?label=portifoliorodrigobragagnolo.netlify.app&style=for-the-badge&url=https://portifoliorodrigobragagnolo.netlify.app/)](https://portifoliorodrigobragagnolo.netlify.app/)
 
@@ -24,7 +24,9 @@ I'm a 23-year-old Analysis and System Development student and a technology lover
     <img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=wh" />
     <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="node-js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" />
 </div>
 
 <h2>📈 My own statistics: </h2>
